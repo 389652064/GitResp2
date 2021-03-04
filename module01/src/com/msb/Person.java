@@ -6,4 +6,5 @@ package com.msb;/*
 public class Person {
     int age;
     double height;
+	double weight;
 }
